@@ -33,20 +33,6 @@
         },
         {
           "node_type": "item",
-          "title": "Parse",
-          "description": "The Parse scanner is a static scanning tool to review your PHP code for potential security-related issues.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2018-08-07T08:33:28Z",
-            "owner": "psecio",
-            "repo": "parse",
-            "stars": 381
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Exakat",
           "description": "Exakat is a PHP static code analysis, with serious Security reviews.",
           "children": [],
@@ -56,6 +42,20 @@
             "last_commit": "2022-03-24T09:32:24Z",
             "owner": "exakat",
             "repo": "exakat",
+            "stars": 380
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Parse",
+          "description": "The Parse scanner is a static scanning tool to review your PHP code for potential security-related issues.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-08-07T08:33:28Z",
+            "owner": "psecio",
+            "repo": "parse",
             "stars": 380
           }
         },
@@ -101,7 +101,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-12T07:53:02Z",
+            "last_commit": "2026-08-13T07:56:03Z",
             "owner": "FriendsOfPHP",
             "repo": "security-advisories",
             "stars": 2136
@@ -184,7 +184,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:20:55.142Z",
+    "last_updated": "2026-08-13T07:56:58.080Z",
     "original_repository": "guardrailsio/awesome-php-security",
     "original_repository_sha": "3be846e897d0280d14824aec53ccc215bcf427bd",
     "enhanced_repository": "enhansome/enhansome-php-security",
