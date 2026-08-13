@@ -1,0 +1,194 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "phpcs-security-audit",
+          "description": "phpcs-security-audit is a set of PHP_CodeSniffer rules that finds vulnerabilities and weaknesses related to security in PHP code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-01-05T14:30:01Z",
+            "owner": "FloeDesignTechnologies",
+            "repo": "phpcs-security-audit",
+            "stars": 728
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SonarPHP",
+          "description": "from SonarQube - A static code analyser for PHP language used as an extension for the SonarQube platform (200+ rules, Supports up to PHP 8, Import of unit test and coverage results, Support of custom rules)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-11T23:03:50Z",
+            "owner": "SonarSource",
+            "repo": "sonar-php",
+            "stars": 430
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Parse",
+          "description": "The Parse scanner is a static scanning tool to review your PHP code for potential security-related issues.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-08-07T08:33:28Z",
+            "owner": "psecio",
+            "repo": "parse",
+            "stars": 381
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Exakat",
+          "description": "Exakat is a PHP static code analysis, with serious Security reviews.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-03-24T09:32:24Z",
+            "owner": "exakat",
+            "repo": "exakat",
+            "stars": 380
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "progpilot",
+          "description": "A static analyzer for security purposes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-08-17T18:31:51Z",
+            "owner": "designsecurity",
+            "repo": "progpilot",
+            "stars": 365
+          }
+        }
+      ],
+      "title": "Static Code Analysis"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "roave/security-advisories",
+          "description": "Add this dependency to disallow known/vulnerable installation of packages directly through",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T19:14:52Z",
+            "owner": "Roave",
+            "repo": "SecurityAdvisories",
+            "stars": 2913
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Security Advisories",
+          "description": "A database of PHP security advisories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T07:53:02Z",
+            "owner": "FriendsOfPHP",
+            "repo": "security-advisories",
+            "stars": 2136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "security-checker",
+          "description": "PHP frontend for security.symfony.com.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2021-01-15T07:12:15Z",
+            "owner": "sensiolabs",
+            "repo": "security-checker",
+            "stars": 1972
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "php-malware-detector",
+          "description": "PHP malware detector",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-12-18T15:49:21Z",
+            "owner": "ollyxar",
+            "repo": "php-malware-detector",
+            "stars": 130
+          }
+        }
+      ],
+      "title": "Vulnerabilities and Security Advisories"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DVWA",
+          "description": "Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-07T11:10:23Z",
+            "owner": "digininja",
+            "repo": "DVWA",
+            "stars": 13491
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Insecure PHP Example",
+          "description": "This is an example application built using Silex for routing to provide examples of SQL Injection, plain text passwords and XSS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-02-28T17:35:06Z",
+            "owner": "rickogden",
+            "repo": "insecure-php-example",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Hacking Playground"
+    },
+    {
+      "description": "This awesome list was inspired by awesome-nodejs-security and awesome-ruby-security.",
+      "items": [],
+      "title": "Inspiration"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:20:55.142Z",
+    "original_repository": "guardrailsio/awesome-php-security",
+    "original_repository_sha": "3be846e897d0280d14824aec53ccc215bcf427bd",
+    "enhanced_repository": "enhansome/enhansome-php-security",
+    "enhanced_repository_description": null,
+    "title": "Awesome Educational with stars"
+  }
+}
