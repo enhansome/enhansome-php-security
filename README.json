@@ -87,7 +87,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-12T19:14:52Z",
+            "last_commit": "2026-08-13T19:02:19Z",
             "owner": "Roave",
             "repo": "SecurityAdvisories",
             "stars": 2913
@@ -101,7 +101,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-13T07:56:03Z",
+            "last_commit": "2026-08-14T07:40:11Z",
             "owner": "FriendsOfPHP",
             "repo": "security-advisories",
             "stars": 2136
@@ -152,7 +152,7 @@
             "last_commit": "2026-08-07T11:10:23Z",
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13491
+            "stars": 13495
           }
         },
         {
@@ -184,7 +184,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T07:56:58.080Z",
+    "last_updated": "2026-08-14T07:53:51.190Z",
     "original_repository": "guardrailsio/awesome-php-security",
     "original_repository_sha": "3be846e897d0280d14824aec53ccc215bcf427bd",
     "enhanced_repository": "enhansome/enhansome-php-security",

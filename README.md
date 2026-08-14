@@ -5,7 +5,7 @@ A curated list of awesome PHP Security related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,126 | 🐛 100 | 📅 2026-06-30 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,517 | 🐛 100 | 📅 2026-06-30 list thing.*
 
 Supported by: [GuardRails.io](https://www.guardrails.io)
 
@@ -34,7 +34,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 * [phpcs-security-audit](https://github.com/FloeDesignTechnologies/phpcs-security-audit) ⭐ 728 | 🐛 27 | 🌐 PHP | 📅 2023-01-05 - phpcs-security-audit is a set of PHP\_CodeSniffer rules that finds vulnerabilities and weaknesses related to security in PHP code.
   * `docker pull guardrails/phpcs-security-audit`
-* [SonarPHP](https://github.com/SonarSource/sonar-php) ⭐ 430 | 🐛 1 | 🌐 Java | 📅 2026-08-11 from [SonarQube](https://github.com/SonarSource/sonarqube) ⭐ 10,888 | 🐛 1 | 🌐 Java | 📅 2026-08-13 - A static code analyser for PHP language used as an extension for the SonarQube platform (200+ rules, Supports up to PHP 8, Import of unit test and coverage results, Support of custom rules)
+* [SonarPHP](https://github.com/SonarSource/sonar-php) ⭐ 430 | 🐛 1 | 🌐 Java | 📅 2026-08-11 from [SonarQube](https://github.com/SonarSource/sonarqube) ⭐ 10,892 | 🐛 1 | 🌐 Java | 📅 2026-08-13 - A static code analyser for PHP language used as an extension for the SonarQube platform (200+ rules, Supports up to PHP 8, Import of unit test and coverage results, Support of custom rules)
 * [Exakat](https://github.com/exakat/exakat) ⭐ 380 | 🐛 47 | 🌐 PHP | 📅 2022-03-24 - *Exakat* is a PHP static code analysis, with serious [Security reviews](https://exakat.readthedocs.io/en/latest/Rulesets.html#security).
 * [Parse](https://github.com/psecio/parse) ⭐ 380 | 🐛 18 | 🌐 PHP | 📅 2018-08-07 - The *Parse* scanner is a static scanning tool to review your PHP code for potential security-related issues.
 * [progpilot](https://github.com/designsecurity/progpilot) ⭐ 365 | 🐛 4 | 🌐 PHP | 📅 2025-08-17 - A static analyzer for security purposes.
@@ -43,8 +43,8 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Vulnerabilities and Security Advisories
 
-* [roave/security-advisories](https://github.com/Roave/SecurityAdvisories) ⭐ 2,913 | 🐛 1 | 📅 2026-08-12 - Add this dependency to disallow known/vulnerable installation of packages directly through `composer update`
-* [Security Advisories](https://github.com/FriendsOfPHP/security-advisories) ⭐ 2,136 | 🐛 2 | 🌐 PHP | 📅 2026-08-13 - A database of PHP security advisories.
+* [roave/security-advisories](https://github.com/Roave/SecurityAdvisories) ⭐ 2,913 | 🐛 1 | 📅 2026-08-13 - Add this dependency to disallow known/vulnerable installation of packages directly through `composer update`
+* [Security Advisories](https://github.com/FriendsOfPHP/security-advisories) ⭐ 2,136 | 🐛 2 | 🌐 PHP | 📅 2026-08-14 - A database of PHP security advisories.
 * [security-checker](https://github.com/sensiolabs/security-checker) ⚠️ Archived - PHP frontend for security.symfony.com.
   * `docker pull guardrails/security-checker`
 * [php-malware-detector](https://github.com/ollyxar/php-malware-detector) ⭐ 130 | 🐛 0 | 🌐 PHP | 📅 2018-12-18 - PHP malware detector
@@ -55,7 +55,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Hacking Playground
 
-* [DVWA](https://github.com/ethicalhack3r/DVWA) ⭐ 13,491 | 🐛 7 | 🌐 PHP | 📅 2026-08-07 - Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable.
+* [DVWA](https://github.com/ethicalhack3r/DVWA) ⭐ 13,495 | 🐛 7 | 🌐 PHP | 📅 2026-08-07 - Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable.
 * [Insecure PHP Example](https://github.com/rickogden/insecure-php-example) ⭐ 8 | 🐛 0 | 🌐 PHP | 📅 2024-02-28 - This is an example application built using Silex for routing to provide examples of SQL Injection, plain text passwords and XSS.
 
 ## Guides
@@ -63,7 +63,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 * [Official PHP Security Manual](http://php.net/manual/en/security.php)
 * [Survive The Deep End: PHP Security](https://phpsecurity.readthedocs.io/en/latest/)
 * [Security Tips for a PHP Application](https://dev.to/restoreddev/security-tips-for-a-php-application-4e9a)
-* [Awesome-AppSec: PHP-Section](https://github.com/paragonie/awesome-appsec#php) ⭐ 7,023 | 🐛 40 | 🌐 PHP | 📅 2025-02-22
+* [Awesome-AppSec: PHP-Section](https://github.com/paragonie/awesome-appsec#php) ⭐ 7,024 | 🐛 40 | 🌐 PHP | 📅 2025-02-22
 * [The 2018 Guide to Building Secure PHP Software](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software)
 
 # Companies
@@ -89,4 +89,4 @@ This awesome list was inspired by [awesome-nodejs-security](https://github.com/l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
