@@ -152,7 +152,7 @@
             "last_commit": "2026-08-07T11:10:23Z",
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13496
+            "stars": 13499
           }
         },
         {
@@ -184,7 +184,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T07:00:45.966Z",
+    "last_updated": "2026-08-16T07:02:35.382Z",
     "original_repository": "guardrailsio/awesome-php-security",
     "original_repository_sha": "3be846e897d0280d14824aec53ccc215bcf427bd",
     "enhanced_repository": "enhansome/enhansome-php-security",
