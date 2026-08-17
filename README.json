@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-11T23:03:50Z",
+            "last_commit": "2026-08-16T23:47:57Z",
             "owner": "SonarSource",
             "repo": "sonar-php",
             "stars": 431
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-14T18:52:45Z",
             "owner": "Roave",
             "repo": "SecurityAdvisories",
-            "stars": 2913
+            "stars": 2914
           }
         },
         {
@@ -152,7 +152,7 @@
             "last_commit": "2026-08-07T11:10:23Z",
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13499
+            "stars": 13501
           }
         },
         {
@@ -184,7 +184,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T07:02:35.382Z",
+    "last_updated": "2026-08-17T07:19:16.545Z",
     "original_repository": "guardrailsio/awesome-php-security",
     "original_repository_sha": "3be846e897d0280d14824aec53ccc215bcf427bd",
     "enhanced_repository": "enhansome/enhansome-php-security",
