@@ -5,7 +5,7 @@ A curated list of awesome PHP Security related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,536 | 🐛 102 | 📅 2026-08-18 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,666 | 🐛 102 | 📅 2026-08-18 list thing.*
 
 Supported by: [GuardRails.io](https://www.guardrails.io)
 
@@ -55,7 +55,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Hacking Playground
 
-* [DVWA](https://github.com/ethicalhack3r/DVWA) ⭐ 13,509 | 🐛 7 | 🌐 PHP | 📅 2026-08-07 - Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable.
+* [DVWA](https://github.com/ethicalhack3r/DVWA) ⭐ 13,509 | 🐛 8 | 🌐 PHP | 📅 2026-08-07 - Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable.
 * [Insecure PHP Example](https://github.com/rickogden/insecure-php-example) ⭐ 8 | 🐛 0 | 🌐 PHP | 📅 2024-02-28 - This is an example application built using Silex for routing to provide examples of SQL Injection, plain text passwords and XSS.
 
 ## Guides
@@ -63,7 +63,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 * [Official PHP Security Manual](http://php.net/manual/en/security.php)
 * [Survive The Deep End: PHP Security](https://phpsecurity.readthedocs.io/en/latest/)
 * [Security Tips for a PHP Application](https://dev.to/restoreddev/security-tips-for-a-php-application-4e9a)
-* [Awesome-AppSec: PHP-Section](https://github.com/paragonie/awesome-appsec#php) ⭐ 7,033 | 🐛 40 | 🌐 PHP | 📅 2025-02-22
+* [Awesome-AppSec: PHP-Section](https://github.com/paragonie/awesome-appsec#php) ⭐ 7,034 | 🐛 40 | 🌐 PHP | 📅 2025-02-22
 * [The 2018 Guide to Building Secure PHP Software](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software)
 
 # Companies
