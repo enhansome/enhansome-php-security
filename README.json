@@ -96,10 +96,10 @@
                 "archived": false,
                 "id": 26223397,
                 "language": null,
-                "last_commit": "2026-08-18T21:23:24Z",
+                "last_commit": "2026-08-19T20:26:41Z",
                 "owner": "Roave",
                 "repo": "SecurityAdvisories",
-                "stars": 2913
+                "stars": 2914
               }
             },
             {
@@ -114,7 +114,7 @@
                 "last_commit": "2026-08-18T17:46:16Z",
                 "owner": "FriendsOfPHP",
                 "repo": "security-advisories",
-                "stars": 2137
+                "stars": 2138
               }
             },
             {
@@ -163,10 +163,10 @@
                 "archived": false,
                 "id": 9791525,
                 "language": "PHP",
-                "last_commit": "2026-08-07T11:10:23Z",
+                "last_commit": "2026-08-19T13:12:21Z",
                 "owner": "digininja",
                 "repo": "DVWA",
-                "stars": 13509
+                "stars": 13513
               }
             },
             {
@@ -194,7 +194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:46:52.594Z",
+    "last_updated": "2026-08-20T07:09:41.842Z",
     "original_repository": "guardrailsio/awesome-php-security",
     "original_repository_id": 161420175,
     "original_repository_sha": "3be846e897d0280d14824aec53ccc215bcf427bd",
