@@ -96,7 +96,7 @@
                 "archived": false,
                 "id": 26223397,
                 "language": null,
-                "last_commit": "2026-08-19T20:26:41Z",
+                "last_commit": "2026-08-20T19:30:26Z",
                 "owner": "Roave",
                 "repo": "SecurityAdvisories",
                 "stars": 2914
@@ -166,7 +166,7 @@
                 "last_commit": "2026-08-19T13:12:21Z",
                 "owner": "digininja",
                 "repo": "DVWA",
-                "stars": 13513
+                "stars": 13520
               }
             },
             {
@@ -194,7 +194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T07:09:41.842Z",
+    "last_updated": "2026-08-21T07:10:53.399Z",
     "original_repository": "guardrailsio/awesome-php-security",
     "original_repository_id": 161420175,
     "original_repository_sha": "3be846e897d0280d14824aec53ccc215bcf427bd",
