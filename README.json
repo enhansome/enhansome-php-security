@@ -7,6 +7,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Secure-Headers",
+              "description": "Add security related headers to HTTP response.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47176049,
+                "language": "PHP",
+                "last_commit": "2026-07-21T05:27:04Z",
+                "owner": "bepsvpt",
+                "repo": "secure-headers",
+                "stars": 551
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web Framework Hardening"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "phpcs-security-audit",
               "description": "phpcs-security-audit is a set of PHP_CodeSniffer rules that finds vulnerabilities and weaknesses related to security in PHP code.",
               "children": [],
@@ -166,7 +188,7 @@
                 "last_commit": "2026-08-19T13:12:21Z",
                 "owner": "digininja",
                 "repo": "DVWA",
-                "stars": 13533
+                "stars": 13535
               }
             },
             {
@@ -188,13 +210,35 @@
           "description": null,
           "node_type": "group",
           "title": "Hacking Playground"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome-AppSec: PHP-Section",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34877308,
+                "language": "PHP",
+                "last_commit": "2025-02-22T16:39:11Z",
+                "owner": "paragonie",
+                "repo": "awesome-appsec",
+                "stars": 7038
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Guides"
         }
       ],
       "title": "Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:31:35.368Z",
+    "last_updated": "2026-08-24T14:15:20.274Z",
     "original_repository": "guardrailsio/awesome-php-security",
     "original_repository_id": 161420175,
     "original_repository_sha": "3be846e897d0280d14824aec53ccc215bcf427bd",
