@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-21T05:27:04Z",
                 "owner": "bepsvpt",
                 "repo": "secure-headers",
-                "stars": 551
+                "stars": 550
               }
             }
           ],
@@ -136,7 +136,7 @@
                 "last_commit": "2026-08-18T17:46:16Z",
                 "owner": "FriendsOfPHP",
                 "repo": "security-advisories",
-                "stars": 2138
+                "stars": 2139
               }
             },
             {
@@ -188,7 +188,7 @@
                 "last_commit": "2026-08-19T13:12:21Z",
                 "owner": "digininja",
                 "repo": "DVWA",
-                "stars": 13535
+                "stars": 13538
               }
             },
             {
@@ -225,7 +225,7 @@
                 "last_commit": "2025-02-22T16:39:11Z",
                 "owner": "paragonie",
                 "repo": "awesome-appsec",
-                "stars": 7038
+                "stars": 7040
               }
             }
           ],
@@ -238,7 +238,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:15:20.274Z",
+    "last_updated": "2026-08-25T06:08:43.692Z",
     "original_repository": "guardrailsio/awesome-php-security",
     "original_repository_id": 161420175,
     "original_repository_sha": "3be846e897d0280d14824aec53ccc215bcf427bd",
