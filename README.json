@@ -51,7 +51,7 @@
                 "archived": false,
                 "id": 4544982,
                 "language": "Java",
-                "last_commit": "2026-08-24T00:35:53Z",
+                "last_commit": "2026-08-25T18:47:09Z",
                 "owner": "SonarSource",
                 "repo": "sonar-php",
                 "stars": 431
@@ -118,7 +118,7 @@
                 "archived": false,
                 "id": 26223397,
                 "language": null,
-                "last_commit": "2026-08-21T21:23:55Z",
+                "last_commit": "2026-08-25T18:38:19Z",
                 "owner": "Roave",
                 "repo": "SecurityAdvisories",
                 "stars": 2914
@@ -133,7 +133,7 @@
                 "archived": false,
                 "id": 7798948,
                 "language": "PHP",
-                "last_commit": "2026-08-18T17:46:16Z",
+                "last_commit": "2026-08-26T06:54:11Z",
                 "owner": "FriendsOfPHP",
                 "repo": "security-advisories",
                 "stars": 2139
@@ -188,7 +188,7 @@
                 "last_commit": "2026-08-19T13:12:21Z",
                 "owner": "digininja",
                 "repo": "DVWA",
-                "stars": 13538
+                "stars": 13547
               }
             },
             {
@@ -238,7 +238,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T07:11:57.764Z",
+    "last_updated": "2026-08-26T07:11:58.355Z",
     "original_repository": "guardrailsio/awesome-php-security",
     "original_repository_id": 161420175,
     "original_repository_sha": "3be846e897d0280d14824aec53ccc215bcf427bd",
