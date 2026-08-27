@@ -51,7 +51,7 @@
                 "archived": false,
                 "id": 4544982,
                 "language": "Java",
-                "last_commit": "2026-08-27T09:30:57Z",
+                "last_commit": "2026-08-27T14:06:58Z",
                 "owner": "SonarSource",
                 "repo": "sonar-php",
                 "stars": 431
@@ -188,7 +188,7 @@
                 "last_commit": "2026-08-19T13:12:21Z",
                 "owner": "digininja",
                 "repo": "DVWA",
-                "stars": 13553
+                "stars": 13556
               }
             },
             {
@@ -225,7 +225,7 @@
                 "last_commit": "2025-02-22T16:39:11Z",
                 "owner": "paragonie",
                 "repo": "awesome-appsec",
-                "stars": 7043
+                "stars": 7044
               }
             }
           ],
@@ -238,7 +238,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:00:19.443Z",
+    "last_updated": "2026-08-27T17:40:58.745Z",
     "original_repository_info": {
       "archived": false,
       "id": 161420175,
