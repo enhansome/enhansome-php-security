@@ -18,7 +18,8 @@
                 "owner": "bepsvpt",
                 "repo": "secure-headers",
                 "stars": 550
-              }
+              },
+              "first_seen": "2026-08-28T18:47:59.743Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "FloeDesignTechnologies",
                 "repo": "phpcs-security-audit",
                 "stars": 728
-              }
+              },
+              "first_seen": "2026-08-28T18:47:59.743Z"
             },
             {
               "node_type": "item",
@@ -51,11 +53,12 @@
                 "archived": false,
                 "id": 4544982,
                 "language": "Java",
-                "last_commit": "2026-08-27T14:06:58Z",
+                "last_commit": "2026-08-28T08:02:28Z",
                 "owner": "SonarSource",
                 "repo": "sonar-php",
                 "stars": 431
-              }
+              },
+              "first_seen": "2026-08-28T18:47:59.743Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "exakat",
                 "repo": "exakat",
                 "stars": 380
-              }
+              },
+              "first_seen": "2026-08-28T18:47:59.743Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "psecio",
                 "repo": "parse",
                 "stars": 380
-              }
+              },
+              "first_seen": "2026-08-28T18:47:59.743Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "designsecurity",
                 "repo": "progpilot",
                 "stars": 367
-              }
+              },
+              "first_seen": "2026-08-28T18:47:59.743Z"
             }
           ],
           "description": null,
@@ -118,11 +124,12 @@
                 "archived": false,
                 "id": 26223397,
                 "language": null,
-                "last_commit": "2026-08-26T16:17:55Z",
+                "last_commit": "2026-08-28T09:46:04Z",
                 "owner": "Roave",
                 "repo": "SecurityAdvisories",
                 "stars": 2914
-              }
+              },
+              "first_seen": "2026-08-28T18:47:59.743Z"
             },
             {
               "node_type": "item",
@@ -133,11 +140,12 @@
                 "archived": false,
                 "id": 7798948,
                 "language": "PHP",
-                "last_commit": "2026-08-26T06:54:11Z",
+                "last_commit": "2026-08-28T07:29:44Z",
                 "owner": "FriendsOfPHP",
                 "repo": "security-advisories",
                 "stars": 2139
-              }
+              },
+              "first_seen": "2026-08-28T18:47:59.743Z"
             },
             {
               "node_type": "item",
@@ -152,7 +160,8 @@
                 "owner": "sensiolabs",
                 "repo": "security-checker",
                 "stars": 1972
-              }
+              },
+              "first_seen": "2026-08-28T18:47:59.743Z"
             },
             {
               "node_type": "item",
@@ -167,7 +176,8 @@
                 "owner": "ollyxar",
                 "repo": "php-malware-detector",
                 "stars": 130
-              }
+              },
+              "first_seen": "2026-08-28T18:47:59.743Z"
             }
           ],
           "description": null,
@@ -188,8 +198,9 @@
                 "last_commit": "2026-08-19T13:12:21Z",
                 "owner": "digininja",
                 "repo": "DVWA",
-                "stars": 13556
-              }
+                "stars": 13557
+              },
+              "first_seen": "2026-08-28T18:47:59.743Z"
             },
             {
               "node_type": "item",
@@ -204,7 +215,8 @@
                 "owner": "rickogden",
                 "repo": "insecure-php-example",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T18:47:59.743Z"
             }
           ],
           "description": null,
@@ -225,8 +237,9 @@
                 "last_commit": "2025-02-22T16:39:11Z",
                 "owner": "paragonie",
                 "repo": "awesome-appsec",
-                "stars": 7044
-              }
+                "stars": 7046
+              },
+              "first_seen": "2026-08-28T18:47:59.743Z"
             }
           ],
           "description": null,
@@ -238,7 +251,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:40:58.745Z",
+    "last_updated": "2026-08-28T18:47:59.743Z",
     "original_repository_info": {
       "archived": false,
       "id": 161420175,
@@ -246,7 +259,7 @@
       "last_commit": "2023-09-14T12:25:04Z",
       "owner": "guardrailsio",
       "repo": "awesome-php-security",
-      "stars": 1034
+      "stars": 1035
     },
     "original_repository_sha": "3be846e897d0280d14824aec53ccc215bcf427bd",
     "enhanced_repository": "enhansome/enhansome-php-security",
