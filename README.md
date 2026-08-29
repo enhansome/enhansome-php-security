@@ -5,7 +5,7 @@ A curated list of awesome PHP Security related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,805 | 🐛 105 | 📅 2026-08-21 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,891 | 🐛 105 | 📅 2026-08-21 list thing.*
 
 Supported by: [GuardRails.io](https://www.guardrails.io)
 
@@ -34,7 +34,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 * [phpcs-security-audit](https://github.com/FloeDesignTechnologies/phpcs-security-audit) ⭐ 728 | 🐛 27 | 🌐 PHP | 📅 2023-01-05 - phpcs-security-audit is a set of PHP\_CodeSniffer rules that finds vulnerabilities and weaknesses related to security in PHP code.
   * `docker pull guardrails/phpcs-security-audit`
-* [SonarPHP](https://github.com/SonarSource/sonar-php) ⭐ 431 | 🐛 1 | 🌐 Java | 📅 2026-08-28 from [SonarQube](https://github.com/SonarSource/sonarqube) ⭐ 10,935 | 🐛 1 | 🌐 Java | 📅 2026-08-28 - A static code analyser for PHP language used as an extension for the SonarQube platform (200+ rules, Supports up to PHP 8, Import of unit test and coverage results, Support of custom rules)
+* [SonarPHP](https://github.com/SonarSource/sonar-php) ⭐ 431 | 🐛 1 | 🌐 Java | 📅 2026-08-28 from [SonarQube](https://github.com/SonarSource/sonarqube) ⭐ 10,937 | 🐛 1 | 🌐 Java | 📅 2026-08-28 - A static code analyser for PHP language used as an extension for the SonarQube platform (200+ rules, Supports up to PHP 8, Import of unit test and coverage results, Support of custom rules)
 * [Exakat](https://github.com/exakat/exakat) ⭐ 380 | 🐛 47 | 🌐 PHP | 📅 2022-03-24 - *Exakat* is a PHP static code analysis, with serious [Security reviews](https://exakat.readthedocs.io/en/latest/Rulesets.html#security).
 * [Parse](https://github.com/psecio/parse) ⭐ 380 | 🐛 18 | 🌐 PHP | 📅 2018-08-07 - The *Parse* scanner is a static scanning tool to review your PHP code for potential security-related issues.
 * [progpilot](https://github.com/designsecurity/progpilot) ⭐ 367 | 🐛 4 | 🌐 PHP | 📅 2025-08-17 - A static analyzer for security purposes.
@@ -55,7 +55,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Hacking Playground
 
-* [DVWA](https://github.com/ethicalhack3r/DVWA) ⭐ 13,557 | 🐛 7 | 🌐 PHP | 📅 2026-08-19 - Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable.
+* [DVWA](https://github.com/ethicalhack3r/DVWA) ⭐ 13,559 | 🐛 7 | 🌐 PHP | 📅 2026-08-19 - Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable.
 * [Insecure PHP Example](https://github.com/rickogden/insecure-php-example) ⭐ 8 | 🐛 0 | 🌐 PHP | 📅 2024-02-28 - This is an example application built using Silex for routing to provide examples of SQL Injection, plain text passwords and XSS.
 
 ## Guides
@@ -89,4 +89,4 @@ This awesome list was inspired by [awesome-nodejs-security](https://github.com/l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

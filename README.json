@@ -12,12 +12,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PHP Secure Headers",
+                "homepage": null,
                 "id": 47176049,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-07-21T05:27:04Z",
+                "open_issues": 2,
                 "owner": "bepsvpt",
                 "repo": "secure-headers",
-                "stars": 550
+                "stars": 550,
+                "topics": [
+                  "clear-site-data",
+                  "content-security-policy",
+                  "csp",
+                  "expect-ct",
+                  "feature-policy",
+                  "hsts",
+                  "laravel",
+                  "laravel-package",
+                  "php",
+                  "referrer-policy",
+                  "secure-headers"
+                ]
               },
               "first_seen": "2026-08-28T18:47:59.743Z"
             }
@@ -35,12 +52,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "phpcs-security-audit is a set of PHP_CodeSniffer rules that finds vulnerabilities and weaknesses related to security in PHP code",
+                "homepage": null,
                 "id": 13784950,
                 "language": "PHP",
+                "license": "GPL-3.0",
                 "last_commit": "2023-01-05T14:30:01Z",
+                "open_issues": 27,
                 "owner": "FloeDesignTechnologies",
                 "repo": "phpcs-security-audit",
-                "stars": 728
+                "stars": 728,
+                "topics": [
+                  "php",
+                  "php-codesniffer",
+                  "phpcs",
+                  "security",
+                  "static-code-analysis"
+                ]
               },
               "first_seen": "2026-08-28T18:47:59.743Z"
             },
@@ -51,12 +79,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " :elephant: SonarPHP: PHP static analyzer for SonarQube & SonarLint",
+                "homepage": null,
                 "id": 4544982,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T08:02:28Z",
+                "open_issues": 1,
                 "owner": "SonarSource",
                 "repo": "sonar-php",
-                "stars": 431
+                "stars": 431,
+                "topics": [
+                  "code-quality",
+                  "language-team",
+                  "php",
+                  "sonarqube",
+                  "static-analysis",
+                  "static-code-analysis"
+                ]
               },
               "first_seen": "2026-08-28T18:47:59.743Z"
             },
@@ -67,12 +107,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Exakat Engine : smart static analysis for PHP",
+                "homepage": "http://www.exakat.io/",
                 "id": 45550113,
                 "language": "PHP",
+                "license": "NOASSERTION",
                 "last_commit": "2022-03-24T09:32:24Z",
+                "open_issues": 47,
                 "owner": "exakat",
                 "repo": "exakat",
-                "stars": 380
+                "stars": 380,
+                "topics": [
+                  "analysis",
+                  "analysis-framework",
+                  "exakat-engine",
+                  "gremlin",
+                  "lint",
+                  "linter",
+                  "neo4j",
+                  "phar",
+                  "php",
+                  "php7",
+                  "review-tools",
+                  "static-analysis"
+                ]
               },
               "first_seen": "2026-08-28T18:47:59.743Z"
             },
@@ -83,12 +141,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Parse: A Static Security Scanner",
+                "homepage": null,
                 "id": 26334899,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2018-08-07T08:33:28Z",
+                "open_issues": 18,
                 "owner": "psecio",
                 "repo": "parse",
-                "stars": 380
+                "stars": 380,
+                "topics": [
+                  "php",
+                  "scanner",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T18:47:59.743Z"
             },
@@ -99,12 +166,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A static analysis tool for security",
+                "homepage": null,
                 "id": 94920753,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-08-17T18:31:51Z",
+                "open_issues": 4,
                 "owner": "designsecurity",
                 "repo": "progpilot",
-                "stars": 367
+                "stars": 367,
+                "topics": [
+                  "php",
+                  "security-tools",
+                  "static-code-analysis",
+                  "vulnerability-scanners"
+                ]
               },
               "first_seen": "2026-08-28T18:47:59.743Z"
             }
@@ -122,12 +199,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":closed_lock_with_key: Security advisories as a simple composer exclusion list, updated daily",
+                "homepage": null,
                 "id": 26223397,
                 "language": null,
-                "last_commit": "2026-08-28T09:46:04Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T21:06:52Z",
+                "open_issues": 1,
                 "owner": "Roave",
                 "repo": "SecurityAdvisories",
-                "stars": 2914
+                "stars": 2914,
+                "topics": [
+                  "composer",
+                  "infosec",
+                  "php",
+                  "security-advisories",
+                  "security-vulnerabilities",
+                  "security-vulnerability"
+                ]
               },
               "first_seen": "2026-08-28T18:47:59.743Z"
             },
@@ -138,12 +227,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A database of PHP security advisories",
+                "homepage": null,
                 "id": 7798948,
                 "language": "PHP",
+                "license": "Unlicense",
                 "last_commit": "2026-08-28T07:29:44Z",
+                "open_issues": 3,
                 "owner": "FriendsOfPHP",
                 "repo": "security-advisories",
-                "stars": 2139
+                "stars": 2139,
+                "topics": [
+                  "composer",
+                  "packagist",
+                  "php",
+                  "vulnerabilities"
+                ]
               },
               "first_seen": "2026-08-28T18:47:59.743Z"
             },
@@ -154,12 +253,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "PHP frontend for security.symfony.com",
+                "homepage": "https://security.symfony.com",
                 "id": 7956480,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2021-01-15T07:12:15Z",
+                "open_issues": 0,
                 "owner": "sensiolabs",
                 "repo": "security-checker",
-                "stars": 1972
+                "stars": 1972,
+                "topics": [
+                  "composer",
+                  "php",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T18:47:59.743Z"
             },
@@ -170,12 +278,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PHP malware detector",
+                "homepage": null,
                 "id": 123253437,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2018-12-18T15:49:21Z",
+                "open_issues": 0,
                 "owner": "ollyxar",
                 "repo": "php-malware-detector",
-                "stars": 130
+                "stars": 130,
+                "topics": [
+                  "anti-malware",
+                  "antivirus",
+                  "php",
+                  "shell-detector",
+                  "vulnerability-scanners"
+                ]
               },
               "first_seen": "2026-08-28T18:47:59.743Z"
             }
@@ -193,12 +312,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Damn Vulnerable Web Application (DVWA)",
+                "homepage": null,
                 "id": 9791525,
                 "language": "PHP",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-19T13:12:21Z",
+                "open_issues": 7,
                 "owner": "digininja",
                 "repo": "DVWA",
-                "stars": 13557
+                "stars": 13559,
+                "topics": [
+                  "dvwa",
+                  "hacking",
+                  "infosec",
+                  "php",
+                  "security",
+                  "sql-injection",
+                  "training"
+                ]
               },
               "first_seen": "2026-08-28T18:47:59.743Z"
             },
@@ -209,12 +341,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Example PHP project showing off bad techniques.",
+                "homepage": null,
                 "id": 79238819,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2024-02-28T17:35:06Z",
+                "open_issues": 0,
                 "owner": "rickogden",
                 "repo": "insecure-php-example",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:47:59.743Z"
             }
@@ -232,12 +369,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of resources for learning about application security",
+                "homepage": "https://paragonie.com/projects",
                 "id": 34877308,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-02-22T16:39:11Z",
+                "open_issues": 40,
                 "owner": "paragonie",
                 "repo": "awesome-appsec",
-                "stars": 7046
+                "stars": 7046,
+                "topics": [
+                  "application-security",
+                  "curated",
+                  "owasp",
+                  "reading-list",
+                  "security",
+                  "security-experts"
+                ]
               },
               "first_seen": "2026-08-28T18:47:59.743Z"
             }
@@ -251,15 +400,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:47:59.743Z",
+    "last_updated": "2026-08-29T04:34:40.545Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome PHP Security Resources 🕶🐘🔐",
+      "homepage": null,
       "id": 161420175,
       "language": null,
+      "license": null,
       "last_commit": "2023-09-14T12:25:04Z",
+      "open_issues": 8,
       "owner": "guardrailsio",
       "repo": "awesome-php-security",
-      "stars": 1035
+      "stars": 1035,
+      "topics": [
+        "application-security",
+        "awesome",
+        "awesome-list",
+        "devsecops",
+        "php",
+        "security",
+        "security-tools"
+      ]
     },
     "original_repository_sha": "3be846e897d0280d14824aec53ccc215bcf427bd",
     "enhanced_repository": "enhansome/enhansome-php-security",
