@@ -236,7 +236,7 @@
                 "open_issues": 3,
                 "owner": "FriendsOfPHP",
                 "repo": "security-advisories",
-                "stars": 2139,
+                "stars": 2140,
                 "topics": [
                   "composer",
                   "packagist",
@@ -321,7 +321,7 @@
                 "open_issues": 7,
                 "owner": "digininja",
                 "repo": "DVWA",
-                "stars": 13565,
+                "stars": 13571,
                 "topics": [
                   "dvwa",
                   "hacking",
@@ -375,7 +375,7 @@
                 "language": "PHP",
                 "license": "MIT",
                 "last_commit": "2025-02-22T16:39:11Z",
-                "open_issues": 40,
+                "open_issues": 42,
                 "owner": "paragonie",
                 "repo": "awesome-appsec",
                 "stars": 7046,
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T12:43:57.523Z",
+    "last_updated": "2026-08-30T11:59:27.097Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome PHP Security Resources 🕶🐘🔐",
