@@ -84,7 +84,7 @@
                 "id": 4544982,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-18T15:25:42Z",
+                "last_commit": "2026-09-21T12:23:38Z",
                 "open_issues": 4,
                 "owner": "SonarSource",
                 "repo": "sonar-php",
@@ -321,7 +321,7 @@
                 "open_issues": 7,
                 "owner": "digininja",
                 "repo": "DVWA",
-                "stars": 13692,
+                "stars": 13701,
                 "topics": [
                   "dvwa",
                   "hacking",
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T11:32:27.254Z",
+    "last_updated": "2026-09-21T12:57:04.022Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome PHP Security Resources 🕶🐘🔐",
