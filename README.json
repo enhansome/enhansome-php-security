@@ -84,11 +84,11 @@
                 "id": 4544982,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-24T11:00:41Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-25T10:18:12Z",
+                "open_issues": 0,
                 "owner": "SonarSource",
                 "repo": "sonar-php",
-                "stars": 432,
+                "stars": 433,
                 "topics": [
                   "code-quality",
                   "language-team",
@@ -204,7 +204,7 @@
                 "id": 26223397,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-09-23T19:28:28Z",
+                "last_commit": "2026-09-25T11:15:57Z",
                 "open_issues": 1,
                 "owner": "Roave",
                 "repo": "SecurityAdvisories",
@@ -232,11 +232,11 @@
                 "id": 7798948,
                 "language": "PHP",
                 "license": "Unlicense",
-                "last_commit": "2026-09-11T11:45:41Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-25T08:51:34Z",
+                "open_issues": 3,
                 "owner": "FriendsOfPHP",
                 "repo": "security-advisories",
-                "stars": 2140,
+                "stars": 2141,
                 "topics": [
                   "composer",
                   "packagist",
@@ -321,7 +321,7 @@
                 "open_issues": 7,
                 "owner": "digininja",
                 "repo": "DVWA",
-                "stars": 13716,
+                "stars": 13722,
                 "topics": [
                   "dvwa",
                   "hacking",
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T11:54:44.796Z",
+    "last_updated": "2026-09-25T11:57:01.375Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome PHP Security Resources 🕶🐘🔐",
