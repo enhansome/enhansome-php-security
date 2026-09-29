@@ -84,8 +84,8 @@
                 "id": 4544982,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-28T06:50:21Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-29T07:34:44Z",
+                "open_issues": 5,
                 "owner": "SonarSource",
                 "repo": "sonar-php",
                 "stars": 433,
@@ -208,7 +208,7 @@
                 "open_issues": 1,
                 "owner": "Roave",
                 "repo": "SecurityAdvisories",
-                "stars": 2918,
+                "stars": 2919,
                 "topics": [
                   "composer",
                   "infosec",
@@ -236,7 +236,7 @@
                 "open_issues": 3,
                 "owner": "FriendsOfPHP",
                 "repo": "security-advisories",
-                "stars": 2142,
+                "stars": 2143,
                 "topics": [
                   "composer",
                   "packagist",
@@ -321,7 +321,7 @@
                 "open_issues": 7,
                 "owner": "digininja",
                 "repo": "DVWA",
-                "stars": 13735,
+                "stars": 13740,
                 "topics": [
                   "dvwa",
                   "hacking",
@@ -378,7 +378,7 @@
                 "open_issues": 43,
                 "owner": "paragonie",
                 "repo": "awesome-appsec",
-                "stars": 7072,
+                "stars": 7075,
                 "topics": [
                   "application-security",
                   "curated",
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T14:06:17.661Z",
+    "last_updated": "2026-09-29T13:01:26.105Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome PHP Security Resources 🕶🐘🔐",
@@ -412,7 +412,7 @@
       "open_issues": 8,
       "owner": "guardrailsio",
       "repo": "awesome-php-security",
-      "stars": 1037,
+      "stars": 1036,
       "topics": [
         "application-security",
         "awesome",
