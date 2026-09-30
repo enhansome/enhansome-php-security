@@ -84,8 +84,8 @@
                 "id": 4544982,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-29T07:34:44Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-30T09:08:45Z",
+                "open_issues": 2,
                 "owner": "SonarSource",
                 "repo": "sonar-php",
                 "stars": 433,
@@ -204,11 +204,11 @@
                 "id": 26223397,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-09-25T16:39:11Z",
+                "last_commit": "2026-09-29T21:56:06Z",
                 "open_issues": 1,
                 "owner": "Roave",
                 "repo": "SecurityAdvisories",
-                "stars": 2919,
+                "stars": 2921,
                 "topics": [
                   "composer",
                   "infosec",
@@ -232,7 +232,7 @@
                 "id": 7798948,
                 "language": "PHP",
                 "license": "Unlicense",
-                "last_commit": "2026-09-25T08:51:34Z",
+                "last_commit": "2026-09-30T12:42:23Z",
                 "open_issues": 3,
                 "owner": "FriendsOfPHP",
                 "repo": "security-advisories",
@@ -262,7 +262,7 @@
                 "open_issues": 0,
                 "owner": "sensiolabs",
                 "repo": "security-checker",
-                "stars": 1972,
+                "stars": 1973,
                 "topics": [
                   "composer",
                   "php",
@@ -321,7 +321,7 @@
                 "open_issues": 7,
                 "owner": "digininja",
                 "repo": "DVWA",
-                "stars": 13740,
+                "stars": 13749,
                 "topics": [
                   "dvwa",
                   "hacking",
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T13:01:26.105Z",
+    "last_updated": "2026-09-30T12:43:39.609Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome PHP Security Resources 🕶🐘🔐",
@@ -412,7 +412,7 @@
       "open_issues": 8,
       "owner": "guardrailsio",
       "repo": "awesome-php-security",
-      "stars": 1036,
+      "stars": 1037,
       "topics": [
         "application-security",
         "awesome",
