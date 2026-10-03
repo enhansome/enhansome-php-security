@@ -208,7 +208,7 @@
                 "open_issues": 1,
                 "owner": "Roave",
                 "repo": "SecurityAdvisories",
-                "stars": 2921,
+                "stars": 2920,
                 "topics": [
                   "composer",
                   "infosec",
@@ -321,7 +321,7 @@
                 "open_issues": 7,
                 "owner": "digininja",
                 "repo": "DVWA",
-                "stars": 13757,
+                "stars": 13759,
                 "topics": [
                   "dvwa",
                   "hacking",
@@ -365,7 +365,7 @@
             {
               "node_type": "item",
               "title": "Awesome-AppSec: PHP-Section",
-              "description": null,
+              "description": "paragonie/awesome-appsec",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T12:46:12.068Z",
+    "last_updated": "2026-10-03T05:00:24.236Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome PHP Security Resources 🕶🐘🔐",
