@@ -5,7 +5,7 @@ A curated list of awesome PHP Security related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,908 | 🐛 106 | 📅 2026-09-02 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 514,437 | 🐛 107 | 📅 2026-09-02 list thing.*
 
 Supported by: [GuardRails.io](https://www.guardrails.io)
 
@@ -55,12 +55,12 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Hacking Playground
 
-* [DVWA](https://github.com/ethicalhack3r/DVWA) ⭐ 13,762 | 🐛 7 | 🌐 PHP | 📅 2026-10-01 - Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable.
+* [DVWA](https://github.com/ethicalhack3r/DVWA) ⭐ 13,768 | 🐛 8 | 🌐 PHP | 📅 2026-10-01 - Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable.
 * [Insecure PHP Example](https://github.com/rickogden/insecure-php-example) ⭐ 8 | 🐛 0 | 🌐 PHP | 📅 2024-02-28 - This is an example application built using Silex for routing to provide examples of SQL Injection, plain text passwords and XSS.
 
 ## Guides
 
-* [Awesome-AppSec: PHP-Section](https://github.com/paragonie/awesome-appsec#php) ⭐ 7,077 | 🐛 43 | 🌐 PHP | 📅 2025-02-22
+* [Awesome-AppSec: PHP-Section](https://github.com/paragonie/awesome-appsec#php) ⭐ 7,079 | 🐛 43 | 🌐 PHP | 📅 2025-02-22
 * [Official PHP Security Manual](http://php.net/manual/en/security.php)
 * [Survive The Deep End: PHP Security](https://phpsecurity.readthedocs.io/en/latest/)
 * [Security Tips for a PHP Application](https://dev.to/restoreddev/security-tips-for-a-php-application-4e9a)
@@ -81,7 +81,7 @@ Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
 
 ## Inspiration
 
-This awesome list was inspired by [awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security) ⭐ 3,043 | 🐛 24 | 📅 2026-08-14 and [awesome-ruby-security](https://github.com/pxlpnk/awesome-ruby-security) ⭐ 473 | 🐛 1 | 📅 2024-02-22.
+This awesome list was inspired by [awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security) ⭐ 3,044 | 🐛 24 | 📅 2026-08-14 and [awesome-ruby-security](https://github.com/pxlpnk/awesome-ruby-security) ⭐ 473 | 🐛 1 | 📅 2024-02-22.
 
 ## License
 
@@ -89,4 +89,4 @@ This awesome list was inspired by [awesome-nodejs-security](https://github.com/l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
