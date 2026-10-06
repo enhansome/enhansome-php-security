@@ -5,7 +5,7 @@ A curated list of awesome PHP Security related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,354 | 🐛 106 | 📅 2026-09-02 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,426 | 🐛 106 | 📅 2026-09-02 list thing.*
 
 Supported by: [GuardRails.io](https://www.guardrails.io)
 
@@ -34,7 +34,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 * [phpcs-security-audit](https://github.com/FloeDesignTechnologies/phpcs-security-audit) ⭐ 728 | 🐛 27 | 🌐 PHP | 📅 2023-01-05 - phpcs-security-audit is a set of PHP\_CodeSniffer rules that finds vulnerabilities and weaknesses related to security in PHP code.
   * `docker pull guardrails/phpcs-security-audit`
-* [SonarPHP](https://github.com/SonarSource/sonar-php) ⭐ 433 | 🐛 5 | 🌐 Java | 📅 2026-10-06 from [SonarQube](https://github.com/SonarSource/sonarqube) ⭐ 11,046 | 🐛 1 | 🌐 Java | 📅 2026-10-05 - A static code analyser for PHP language used as an extension for the SonarQube platform (200+ rules, Supports up to PHP 8, Import of unit test and coverage results, Support of custom rules)
+* [SonarPHP](https://github.com/SonarSource/sonar-php) ⭐ 433 | 🐛 5 | 🌐 Java | 📅 2026-10-06 from [SonarQube](https://github.com/SonarSource/sonarqube) ⭐ 11,047 | 🐛 1 | 🌐 Java | 📅 2026-10-05 - A static code analyser for PHP language used as an extension for the SonarQube platform (200+ rules, Supports up to PHP 8, Import of unit test and coverage results, Support of custom rules)
 * [Parse](https://github.com/psecio/parse) ⭐ 381 | 🐛 18 | 🌐 PHP | 📅 2018-08-07 - The *Parse* scanner is a static scanning tool to review your PHP code for potential security-related issues.
 * [Exakat](https://github.com/exakat/exakat) ⭐ 380 | 🐛 47 | 🌐 PHP | 📅 2022-03-24 - *Exakat* is a PHP static code analysis, with serious [Security reviews](https://exakat.readthedocs.io/en/latest/Rulesets.html#security).
 * [progpilot](https://github.com/designsecurity/progpilot) ⭐ 370 | 🐛 4 | 🌐 PHP | 📅 2025-08-17 - A static analyzer for security purposes.
@@ -81,7 +81,7 @@ Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
 
 ## Inspiration
 
-This awesome list was inspired by [awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security) ⭐ 3,046 | 🐛 24 | 📅 2026-08-14 and [awesome-ruby-security](https://github.com/pxlpnk/awesome-ruby-security) ⭐ 473 | 🐛 1 | 📅 2024-02-22.
+This awesome list was inspired by [awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security) ⭐ 3,046 | 🐛 26 | 📅 2026-08-14 and [awesome-ruby-security](https://github.com/pxlpnk/awesome-ruby-security) ⭐ 473 | 🐛 1 | 📅 2024-02-22.
 
 ## License
 
