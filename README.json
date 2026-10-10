@@ -102,6 +102,40 @@
             },
             {
               "node_type": "item",
+              "title": "Exakat",
+              "description": "Exakat is a PHP static code analysis, with serious Security reviews.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The Exakat Engine : smart static analysis for PHP",
+                "homepage": "http://www.exakat.io/",
+                "id": 45550113,
+                "language": "PHP",
+                "license": "NOASSERTION",
+                "last_commit": "2022-03-24T09:32:24Z",
+                "open_issues": 47,
+                "owner": "exakat",
+                "repo": "exakat",
+                "stars": 381,
+                "topics": [
+                  "analysis",
+                  "analysis-framework",
+                  "exakat-engine",
+                  "gremlin",
+                  "lint",
+                  "linter",
+                  "neo4j",
+                  "phar",
+                  "php",
+                  "php7",
+                  "review-tools",
+                  "static-analysis"
+                ]
+              },
+              "first_seen": "2026-08-28T18:47:59.743Z"
+            },
+            {
+              "node_type": "item",
               "title": "Parse",
               "description": "The Parse scanner is a static scanning tool to review your PHP code for potential security-related issues.",
               "children": [],
@@ -121,40 +155,6 @@
                   "php",
                   "scanner",
                   "security"
-                ]
-              },
-              "first_seen": "2026-08-28T18:47:59.743Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Exakat",
-              "description": "Exakat is a PHP static code analysis, with serious Security reviews.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The Exakat Engine : smart static analysis for PHP",
-                "homepage": "http://www.exakat.io/",
-                "id": 45550113,
-                "language": "PHP",
-                "license": "NOASSERTION",
-                "last_commit": "2022-03-24T09:32:24Z",
-                "open_issues": 47,
-                "owner": "exakat",
-                "repo": "exakat",
-                "stars": 380,
-                "topics": [
-                  "analysis",
-                  "analysis-framework",
-                  "exakat-engine",
-                  "gremlin",
-                  "lint",
-                  "linter",
-                  "neo4j",
-                  "phar",
-                  "php",
-                  "php7",
-                  "review-tools",
-                  "static-analysis"
                 ]
               },
               "first_seen": "2026-08-28T18:47:59.743Z"
@@ -321,7 +321,7 @@
                 "open_issues": 7,
                 "owner": "digininja",
                 "repo": "DVWA",
-                "stars": 13803,
+                "stars": 13802,
                 "topics": [
                   "dvwa",
                   "hacking",
@@ -378,7 +378,7 @@
                 "open_issues": 43,
                 "owner": "paragonie",
                 "repo": "awesome-appsec",
-                "stars": 7086,
+                "stars": 7087,
                 "topics": [
                   "application-security",
                   "curated",
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T13:24:52.455Z",
+    "last_updated": "2026-10-10T12:40:32.873Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome PHP Security Resources 🕶🐘🔐",
