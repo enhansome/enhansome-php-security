@@ -5,7 +5,7 @@ A curated list of awesome PHP Security related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 526,045 | 🐛 105 | 📅 2026-09-02 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 526,585 | 🐛 105 | 📅 2026-09-02 list thing.*
 
 Supported by: [GuardRails.io](https://www.guardrails.io)
 
@@ -34,17 +34,17 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 * [phpcs-security-audit](https://github.com/FloeDesignTechnologies/phpcs-security-audit) ⭐ 725 | 🐛 27 | 🌐 PHP | 📅 2023-01-05 - phpcs-security-audit is a set of PHP\_CodeSniffer rules that finds vulnerabilities and weaknesses related to security in PHP code.
   * `docker pull guardrails/phpcs-security-audit`
-* [SonarPHP](https://github.com/SonarSource/sonar-php) ⭐ 431 | 🐛 0 | 🌐 Java | 📅 2026-10-28 from [SonarQube](https://github.com/SonarSource/sonarqube) ⭐ 11,121 | 🐛 0 | 🌐 Java | 📅 2026-10-27 - A static code analyser for PHP language used as an extension for the SonarQube platform (200+ rules, Supports up to PHP 8, Import of unit test and coverage results, Support of custom rules)
+* [SonarPHP](https://github.com/SonarSource/sonar-php) ⭐ 431 | 🐛 0 | 🌐 Java | 📅 2026-10-29 from [SonarQube](https://github.com/SonarSource/sonarqube) ⭐ 11,125 | 🐛 0 | 🌐 Java | 📅 2026-10-28 - A static code analyser for PHP language used as an extension for the SonarQube platform (200+ rules, Supports up to PHP 8, Import of unit test and coverage results, Support of custom rules)
 * [Exakat](https://github.com/exakat/exakat) ⭐ 380 | 🐛 47 | 🌐 PHP | 📅 2022-03-24 - *Exakat* is a PHP static code analysis, with serious [Security reviews](https://exakat.readthedocs.io/en/latest/Rulesets.html#security).
-* [Parse](https://github.com/psecio/parse) ⭐ 378 | 🐛 18 | 🌐 PHP | 📅 2018-08-07 - The *Parse* scanner is a static scanning tool to review your PHP code for potential security-related issues.
+* [Parse](https://github.com/psecio/parse) ⭐ 377 | 🐛 18 | 🌐 PHP | 📅 2018-08-07 - The *Parse* scanner is a static scanning tool to review your PHP code for potential security-related issues.
 * [progpilot](https://github.com/designsecurity/progpilot) ⭐ 371 | 🐛 4 | 🌐 PHP | 📅 2025-08-17 - A static analyzer for security purposes.
 * [Enlightn](https://www.laravel-enlightn.com/) - Enlightn is a static and dynamic analysis tool to improve the security of Laravel applications.
 * [Snyk Code](https://snyk.io/product/snyk-code/) PHP support (beta) and available in Snyk free tier
 
 ## Vulnerabilities and Security Advisories
 
-* [roave/security-advisories](https://github.com/Roave/SecurityAdvisories) ⭐ 2,925 | 🐛 1 | 📅 2026-10-27 - Add this dependency to disallow known/vulnerable installation of packages directly through `composer update`
-* [Security Advisories](https://github.com/FriendsOfPHP/security-advisories) ⭐ 2,147 | 🐛 2 | 🌐 PHP | 📅 2026-10-27 - A database of PHP security advisories.
+* [roave/security-advisories](https://github.com/Roave/SecurityAdvisories) ⭐ 2,925 | 🐛 1 | 📅 2026-10-28 - Add this dependency to disallow known/vulnerable installation of packages directly through `composer update`
+* [Security Advisories](https://github.com/FriendsOfPHP/security-advisories) ⭐ 2,147 | 🐛 3 | 🌐 PHP | 📅 2026-10-28 - A database of PHP security advisories.
 * [security-checker](https://github.com/sensiolabs/security-checker) ⚠️ Archived - PHP frontend for security.symfony.com.
   * `docker pull guardrails/security-checker`
 * [php-malware-detector](https://github.com/ollyxar/php-malware-detector) ⭐ 130 | 🐛 0 | 🌐 PHP | 📅 2018-12-18 - PHP malware detector
@@ -55,7 +55,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Hacking Playground
 
-* [DVWA](https://github.com/ethicalhack3r/DVWA) ⭐ 13,911 | 🐛 8 | 🌐 PHP | 📅 2026-10-18 - Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable.
+* [DVWA](https://github.com/ethicalhack3r/DVWA) ⭐ 13,915 | 🐛 8 | 🌐 PHP | 📅 2026-10-18 - Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable.
 * [Insecure PHP Example](https://github.com/rickogden/insecure-php-example) ⭐ 8 | 🐛 0 | 🌐 PHP | 📅 2024-02-28 - This is an example application built using Silex for routing to provide examples of SQL Injection, plain text passwords and XSS.
 
 ## Guides
@@ -81,7 +81,7 @@ Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
 
 ## Inspiration
 
-This awesome list was inspired by [awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security) ⭐ 3,054 | 🐛 1 | 📅 2026-10-18 and [awesome-ruby-security](https://github.com/pxlpnk/awesome-ruby-security) ⭐ 473 | 🐛 1 | 📅 2024-02-22.
+This awesome list was inspired by [awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security) ⭐ 3,055 | 🐛 2 | 📅 2026-10-18 and [awesome-ruby-security](https://github.com/pxlpnk/awesome-ruby-security) ⭐ 473 | 🐛 1 | 📅 2024-02-22.
 
 ## License
 
@@ -89,4 +89,4 @@ This awesome list was inspired by [awesome-nodejs-security](https://github.com/l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
