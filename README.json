@@ -84,7 +84,7 @@
                 "id": 4544982,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-31T01:05:04Z",
+                "last_commit": "2026-11-01T01:05:40Z",
                 "open_issues": 0,
                 "owner": "SonarSource",
                 "repo": "sonar-php",
@@ -236,7 +236,7 @@
                 "open_issues": 3,
                 "owner": "FriendsOfPHP",
                 "repo": "security-advisories",
-                "stars": 2147,
+                "stars": 2148,
                 "topics": [
                   "composer",
                   "packagist",
@@ -262,7 +262,7 @@
                 "open_issues": 0,
                 "owner": "sensiolabs",
                 "repo": "security-checker",
-                "stars": 1970,
+                "stars": 1969,
                 "topics": [
                   "composer",
                   "php",
@@ -321,7 +321,7 @@
                 "open_issues": 8,
                 "owner": "digininja",
                 "repo": "DVWA",
-                "stars": 13937,
+                "stars": 13939,
                 "topics": [
                   "dvwa",
                   "hacking",
@@ -378,7 +378,7 @@
                 "open_issues": 44,
                 "owner": "paragonie",
                 "repo": "awesome-appsec",
-                "stars": 7126,
+                "stars": 7127,
                 "topics": [
                   "application-security",
                   "curated",
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T12:43:09.508Z",
+    "last_updated": "2026-11-01T13:33:48.930Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome PHP Security Resources 🕶🐘🔐",
@@ -412,7 +412,7 @@
       "open_issues": 11,
       "owner": "guardrailsio",
       "repo": "awesome-php-security",
-      "stars": 1038,
+      "stars": 1039,
       "topics": [
         "application-security",
         "awesome",
