@@ -84,7 +84,7 @@
                 "id": 4544982,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-16T13:49:58Z",
+                "last_commit": "2026-11-17T01:05:48Z",
                 "open_issues": 2,
                 "owner": "SonarSource",
                 "repo": "sonar-php",
@@ -204,7 +204,7 @@
                 "id": 26223397,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-11-14T00:11:22Z",
+                "last_commit": "2026-11-16T23:14:11Z",
                 "open_issues": 1,
                 "owner": "Roave",
                 "repo": "SecurityAdvisories",
@@ -232,11 +232,11 @@
                 "id": 7798948,
                 "language": "PHP",
                 "license": "Unlicense",
-                "last_commit": "2026-11-13T19:08:36Z",
+                "last_commit": "2026-11-17T14:33:17Z",
                 "open_issues": 3,
                 "owner": "FriendsOfPHP",
                 "repo": "security-advisories",
-                "stars": 2151,
+                "stars": 2150,
                 "topics": [
                   "composer",
                   "packagist",
@@ -317,11 +317,11 @@
                 "id": 9791525,
                 "language": "PHP",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-18T17:11:33Z",
+                "last_commit": "2026-11-17T09:29:27Z",
                 "open_issues": 5,
                 "owner": "digininja",
                 "repo": "DVWA",
-                "stars": 14033,
+                "stars": 14039,
                 "topics": [
                   "dvwa",
                   "hacking",
@@ -378,7 +378,7 @@
                 "open_issues": 44,
                 "owner": "paragonie",
                 "repo": "awesome-appsec",
-                "stars": 7142,
+                "stars": 7146,
                 "topics": [
                   "application-security",
                   "curated",
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T15:59:02.957Z",
+    "last_updated": "2026-11-17T16:10:52.786Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome PHP Security Resources 🕶🐘🔐",
