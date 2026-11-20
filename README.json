@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "bepsvpt",
                 "repo": "secure-headers",
-                "stars": 551,
+                "stars": 550,
                 "topics": [
                   "clear-site-data",
                   "content-security-policy",
@@ -84,11 +84,11 @@
                 "id": 4544982,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-19T15:18:58Z",
-                "open_issues": 0,
+                "last_commit": "2026-11-20T01:05:26Z",
+                "open_issues": 1,
                 "owner": "SonarSource",
                 "repo": "sonar-php",
-                "stars": 432,
+                "stars": 431,
                 "topics": [
                   "code-quality",
                   "language-team",
@@ -116,7 +116,7 @@
                 "open_issues": 47,
                 "owner": "exakat",
                 "repo": "exakat",
-                "stars": 381,
+                "stars": 379,
                 "topics": [
                   "analysis",
                   "analysis-framework",
@@ -150,7 +150,7 @@
                 "open_issues": 18,
                 "owner": "psecio",
                 "repo": "parse",
-                "stars": 378,
+                "stars": 377,
                 "topics": [
                   "php",
                   "scanner",
@@ -175,7 +175,7 @@
                 "open_issues": 5,
                 "owner": "designsecurity",
                 "repo": "progpilot",
-                "stars": 371,
+                "stars": 370,
                 "topics": [
                   "php",
                   "security-tools",
@@ -204,11 +204,11 @@
                 "id": 26223397,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-11-18T23:16:44Z",
+                "last_commit": "2026-11-20T14:57:36Z",
                 "open_issues": 1,
                 "owner": "Roave",
                 "repo": "SecurityAdvisories",
-                "stars": 2931,
+                "stars": 2932,
                 "topics": [
                   "composer",
                   "infosec",
@@ -236,7 +236,7 @@
                 "open_issues": 3,
                 "owner": "FriendsOfPHP",
                 "repo": "security-advisories",
-                "stars": 2151,
+                "stars": 2150,
                 "topics": [
                   "composer",
                   "packagist",
@@ -262,7 +262,7 @@
                 "open_issues": 0,
                 "owner": "sensiolabs",
                 "repo": "security-checker",
-                "stars": 1968,
+                "stars": 1967,
                 "topics": [
                   "composer",
                   "php",
@@ -321,7 +321,7 @@
                 "open_issues": 5,
                 "owner": "digininja",
                 "repo": "DVWA",
-                "stars": 14056,
+                "stars": 14060,
                 "topics": [
                   "dvwa",
                   "hacking",
@@ -378,7 +378,7 @@
                 "open_issues": 44,
                 "owner": "paragonie",
                 "repo": "awesome-appsec",
-                "stars": 7149,
+                "stars": 7151,
                 "topics": [
                   "application-security",
                   "curated",
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T15:51:37.756Z",
+    "last_updated": "2026-11-20T15:34:01.862Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome PHP Security Resources 🕶🐘🔐",
@@ -412,7 +412,7 @@
       "open_issues": 10,
       "owner": "guardrailsio",
       "repo": "awesome-php-security",
-      "stars": 1038,
+      "stars": 1037,
       "topics": [
         "application-security",
         "awesome",
